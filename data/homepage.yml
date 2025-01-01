@@ -54,7 +54,7 @@ service:
       content : "Must explain to you how this denouncing praisig pain was give you explain to you how."
       
     # service item loop
-    - title : "Targetting Vission"
+    - title : "Targeting Vission"
       icon : "ti-email" # themify icon pack : https://themify.me/themify-icons
       content : "Must explain to you how this denouncing praisig pain was give you explain to you how."
 
@@ -144,12 +144,12 @@ devices:
     # feature item loop
     - title : "Take a sneak peak insight"
       icon : "ti-bar-chart" # themify icon pack : https://themify.me/themify-icons
-      content : "Sed laborum omnis earum facere culpa optio natus quaerat minus."
+      content : "Sed laborum omnis earum facere culpa option natus quaerat minus."
       
     # feature item loop
     - title : "Reporting & Analysis"
       icon : "ti-write" # themify icon pack : https://themify.me/themify-icons
-      content : "Sed laborum omnis earum facere culpa optio natus quaerat minus."
+      content : "Sed laborum omnis earum facere culpa option natus quaerat minus."
 
 
   # button
