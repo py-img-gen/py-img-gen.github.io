@@ -2,6 +2,7 @@ name: Page Build
 
 on: [push]
 
+# Allow one concurrent deployment
 concurrency:
   group: "pages"
   cancel-in-progress: true
@@ -41,26 +42,10 @@ jobs:
             -e twitter.com \
             "
 
-      - name: Upload artifacts
-        uses: actions/upload-pages-artifact@v3
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v4
         if: github.event_name == 'push' && github.ref == 'refs/heads/main'
         with:
-          path: ./public
-
-  deploy:
-    needs: build
-
-    permissions:
-      id-token: write
-      pages: write
-
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-
-    runs-on: ubuntu-latest
-    steps:
-      - name: Deploy artifacts
-        uses: actions/deploy-pages@v4
-        if: github.event_name == 'push' && github.ref == 'refs/heads/main'
-        id: deployment
+          deploy_key: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
+          publish_branch: gh-pages # deploying branch
