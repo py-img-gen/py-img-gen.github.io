@@ -1,0 +1,51 @@
+name: Page Build
+
+on: [push]
+
+# Allow one concurrent deployment
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # Fetch all history for .GitInfo and .
+
+      - name: Typo check
+        uses: crate-ci/typos@v1.29.0
+        
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: "latest"
+          extended: true
+
+      - name: Build
+        run: hugo
+
+      - name: Check broken links
+        uses: ruzickap/action-my-broken-link-checker@v2
+        with:
+          url: https://py-img-gen.github.io
+          pages_path: ./public
+          cmd_params: "\
+            --timeout=20 \
+            --buffer-size 8192 \
+            --max-connections=10 \
+            --max-response-body-size=70000000 \
+            --ignore-fragments \
+            -e t.co \
+            -e twitter.com \
+            "
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v4
+        if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+        with:
+          deploy_key: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
+          publish_branch: gh-pages # deploying branch
