@@ -71,8 +71,8 @@ home = "Home"
 # Meta data
 description = "This is meta description"
 author = "Themefisher"
-# Google Analitycs
-googleAnalitycsID = "" # Your ID
+# Google Analytics
+googleAnalyticsID = "" # Your ID
 # copyright
 copyright = "Copyright &copy; 2021 [Gethugothemes](https://gethugothemes.com) All Rights Reserved"
 
