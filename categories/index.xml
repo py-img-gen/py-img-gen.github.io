@@ -6,8 +6,43 @@
     <description>Recent content in Categories on Influencer</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 23 Nov 2019 15:28:43 +0600</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0900</lastBuildDate>
     <atom:link href="https://py-img-gen.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugging Face</title>
+      <link>https://py-img-gen.github.io/categories/hugging-face/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0900</pubDate>
+      <guid>https://py-img-gen.github.io/categories/hugging-face/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Huggingface Datasets</title>
+      <link>https://py-img-gen.github.io/categories/huggingface-datasets/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0900</pubDate>
+      <guid>https://py-img-gen.github.io/categories/huggingface-datasets/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Huggingface Evaluate</title>
+      <link>https://py-img-gen.github.io/categories/huggingface-evaluate/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0900</pubDate>
+      <guid>https://py-img-gen.github.io/categories/huggingface-evaluate/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Huggingface Transformers</title>
+      <link>https://py-img-gen.github.io/categories/huggingface-transformers/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0900</pubDate>
+      <guid>https://py-img-gen.github.io/categories/huggingface-transformers/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>https://py-img-gen.github.io/categories/python/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0900</pubDate>
+      <guid>https://py-img-gen.github.io/categories/python/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Creative</title>
       <link>https://py-img-gen.github.io/categories/creative/</link>
