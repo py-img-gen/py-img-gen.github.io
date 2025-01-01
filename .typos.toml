@@ -1,4 +1,4 @@
 [files]
-extend-exclude = ["*.js"]
+extend-exclude = ["*.js", "*.svg"]
 ignore-hidden = true
 ignore-vcs = true
