@@ -8,7 +8,7 @@
     <div class="row justify-content-between">
       <div class="col-lg-7 col-md-8">
         <div class="main-banner">
-          <span class="text-color font-weight-bold">{{ .writter | markdownify }}</span>
+          <span class="text-color font-weight-bold">{{ .writer | markdownify }}</span>
           <h1 class="mb-3 mt-2">{{ .title | markdownify }}</h1>
 
           <div class="mb-4">
@@ -16,9 +16,10 @@
           </div>
           <p class="mb-4">{{ .content | markdownify }}</p>
           <button class="snipcart-add-item btn btn-main mt-2" data-item-id="1"
-          data-item-name="{{ .title | markdownify }}" data-item-image="{{ .image | absURL }}" data-item-price="{{ .price }}" data-item-url="/">
-          Purchase now <i class="ti-angle-right ml-3"></i>
-        </button>
+            data-item-name="{{ .title | markdownify }}" data-item-image="{{ .image | absURL }}"
+            data-item-price="{{ .price }}" data-item-url="/">
+            Purchase now <i class="ti-angle-right ml-3"></i>
+          </button>
         </div>
       </div>
 
@@ -343,7 +344,7 @@
     <div class="row">
       {{ range first 3 (where .Site.RegularPages "Type" "post")}}
       <div class="col-lg-4 col-md-6 col-sm-6">
-      {{ .Render "post"}}
+        {{ .Render "post"}}
       </div>
       {{ end }}
     </div>
