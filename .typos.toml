@@ -1,0 +1,4 @@
+[files]
+extend-exclude = ["*.js"]
+ignore-hidden = true
+ignore-vcs = true

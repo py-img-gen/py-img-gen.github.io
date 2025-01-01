@@ -16,7 +16,7 @@ jobs:
 
       - name: Typo check
         uses: crate-ci/typos@v1.29.0
-
+        
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
