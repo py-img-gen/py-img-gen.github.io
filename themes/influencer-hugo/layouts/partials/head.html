@@ -4,7 +4,8 @@
 
   {{ "<!-- mobile responsive meta -->" | safeHTML }}
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}">
+  <meta name="description"
+    content="{{ with .Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}">
   {{ with .Site.Params.author }}
   <meta name="author" content="{{ . }}">{{ end }}
   <!-- theme meta -->
@@ -17,7 +18,8 @@
   {{ end }}
 
   <!-- snipcart -->
-  <link id="snipcart-theme" type="text/css" href="https://cdn.snipcart.com/themes/2.0/base/snipcart.min.css" rel="stylesheet">
+  <link id="snipcart-theme" type="text/css" href="https://cdn.snipcart.com/themes/2.0/base/snipcart.min.css"
+    rel="stylesheet">
 
   {{ "<!-- Main Stylesheet -->" | safeHTML }}
   {{ $styles := resources.Get "scss/style.scss" | toCSS | minify }}
@@ -27,4 +29,13 @@
   <link rel="shortcut icon" href="{{ `images/favicon.ico` | absURL }} " type="image/x-icon">
   <link rel="icon" href="{{ `images/favicon.ico` | absURL }} " type="image/x-icon">
 
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-S7BC1RT2JB"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'G-S7BC1RT2JB');
+  </script>
 </head>
