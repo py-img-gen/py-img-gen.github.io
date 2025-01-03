@@ -6,8 +6,36 @@
     <description>Recent content in Categories on Influencer</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jan 2025 00:00:00 +0900</lastBuildDate>
     <atom:link href="https://py-img-gen.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Python</title>
+      <link>https://py-img-gen.github.io/categories/python/</link>
+      <pubDate>Fri, 03 Jan 2025 00:00:00 +0900</pubDate>
+      <guid>https://py-img-gen.github.io/categories/python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ruff</title>
+      <link>https://py-img-gen.github.io/categories/ruff/</link>
+      <pubDate>Fri, 03 Jan 2025 00:00:00 +0900</pubDate>
+      <guid>https://py-img-gen.github.io/categories/ruff/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rust</title>
+      <link>https://py-img-gen.github.io/categories/rust/</link>
+      <pubDate>Fri, 03 Jan 2025 00:00:00 +0900</pubDate>
+      <guid>https://py-img-gen.github.io/categories/rust/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Diffusers</title>
+      <link>https://py-img-gen.github.io/categories/diffusers/</link>
+      <pubDate>Thu, 02 Jan 2025 00:00:00 +0900</pubDate>
+      <guid>https://py-img-gen.github.io/categories/diffusers/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Hugging Face</title>
       <link>https://py-img-gen.github.io/categories/hugging-face/</link>
@@ -34,13 +62,6 @@
       <link>https://py-img-gen.github.io/categories/huggingface-transformers/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0900</pubDate>
       <guid>https://py-img-gen.github.io/categories/huggingface-transformers/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Python</title>
-      <link>https://py-img-gen.github.io/categories/python/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0900</pubDate>
-      <guid>https://py-img-gen.github.io/categories/python/</guid>
       <description></description>
     </item>
     <item>

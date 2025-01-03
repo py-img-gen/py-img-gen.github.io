@@ -5,8 +5,41 @@
     <loc>https://py-img-gen.github.io/</loc>
     <lastmod>2025-01-05T00:00:00+09:00</lastmod>
   </url><url>
+    <loc>https://py-img-gen.github.io/column/beautiful-python-code/</loc>
+    <lastmod>2025-01-03T00:00:00+09:00</lastmod>
+  </url><url>
     <loc>https://py-img-gen.github.io/categories/</loc>
-    <lastmod>2025-01-01T00:00:00+09:00</lastmod>
+    <lastmod>2025-01-03T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://py-img-gen.github.io/tags/python/</loc>
+    <lastmod>2025-01-03T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://py-img-gen.github.io/categories/python/</loc>
+    <lastmod>2025-01-03T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://py-img-gen.github.io/tags/ruff/</loc>
+    <lastmod>2025-01-03T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://py-img-gen.github.io/categories/ruff/</loc>
+    <lastmod>2025-01-03T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://py-img-gen.github.io/tags/rust/</loc>
+    <lastmod>2025-01-03T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://py-img-gen.github.io/categories/rust/</loc>
+    <lastmod>2025-01-03T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://py-img-gen.github.io/tags/</loc>
+    <lastmod>2025-01-03T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://py-img-gen.github.io/tags/diffusers/</loc>
+    <lastmod>2025-01-02T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://py-img-gen.github.io/categories/diffusers/</loc>
+    <lastmod>2025-01-02T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://py-img-gen.github.io/column/extending-diffusers-code/</loc>
+    <lastmod>2025-01-02T00:00:00+09:00</lastmod>
   </url><url>
     <loc>https://py-img-gen.github.io/column/</loc>
     <lastmod>2025-01-01T00:00:00+09:00</lastmod>
@@ -33,15 +66,6 @@
     <lastmod>2025-01-01T00:00:00+09:00</lastmod>
   </url><url>
     <loc>https://py-img-gen.github.io/categories/huggingface-transformers/</loc>
-    <lastmod>2025-01-01T00:00:00+09:00</lastmod>
-  </url><url>
-    <loc>https://py-img-gen.github.io/tags/python/</loc>
-    <lastmod>2025-01-01T00:00:00+09:00</lastmod>
-  </url><url>
-    <loc>https://py-img-gen.github.io/categories/python/</loc>
-    <lastmod>2025-01-01T00:00:00+09:00</lastmod>
-  </url><url>
-    <loc>https://py-img-gen.github.io/tags/</loc>
     <lastmod>2025-01-01T00:00:00+09:00</lastmod>
   </url><url>
     <loc>https://py-img-gen.github.io/column/mastering-huggingface-ecosystem/</loc>
