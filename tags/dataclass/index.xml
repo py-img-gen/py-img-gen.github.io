@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dataclass on Influencer</title>
+    <link>https://py-img-gen.github.io/tags/dataclass/</link>
+    <description>Recent content in Dataclass on Influencer</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 04 Jan 2025 00:00:00 +0900</lastBuildDate>
+    <atom:link href="https://py-img-gen.github.io/tags/dataclass/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🔎 dataclass in Python</title>
+      <link>https://py-img-gen.github.io/column/python-dataclass/</link>
+      <pubDate>Sat, 04 Jan 2025 00:00:00 +0900</pubDate>
+      <guid>https://py-img-gen.github.io/column/python-dataclass/</guid>
+      <description>&lt;h2 id=&#34;-dataclass-で万物に型をつけよう&#34;&gt;🔎 &lt;code&gt;dataclass&lt;/code&gt; で万物に型をつけよう&lt;/h2&gt;</description>
+    </item>
+  </channel>
+</rss>

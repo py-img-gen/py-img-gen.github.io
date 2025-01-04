@@ -6,13 +6,48 @@
     <description>Recent content in Categories on Influencer</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Jan 2025 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jan 2025 00:00:00 +0900</lastBuildDate>
     <atom:link href="https://py-img-gen.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dataclass</title>
+      <link>https://py-img-gen.github.io/categories/dataclass/</link>
+      <pubDate>Sat, 04 Jan 2025 00:00:00 +0900</pubDate>
+      <guid>https://py-img-gen.github.io/categories/dataclass/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Docker</title>
+      <link>https://py-img-gen.github.io/categories/docker/</link>
+      <pubDate>Sat, 04 Jan 2025 00:00:00 +0900</pubDate>
+      <guid>https://py-img-gen.github.io/categories/docker/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Python</title>
       <link>https://py-img-gen.github.io/categories/python/</link>
-      <pubDate>Fri, 03 Jan 2025 00:00:00 +0900</pubDate>
+      <pubDate>Sat, 04 Jan 2025 00:00:00 +0900</pubDate>
       <guid>https://py-img-gen.github.io/categories/python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rust</title>
+      <link>https://py-img-gen.github.io/categories/rust/</link>
+      <pubDate>Sat, 04 Jan 2025 00:00:00 +0900</pubDate>
+      <guid>https://py-img-gen.github.io/categories/rust/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Type Hint</title>
+      <link>https://py-img-gen.github.io/categories/type-hint/</link>
+      <pubDate>Sat, 04 Jan 2025 00:00:00 +0900</pubDate>
+      <guid>https://py-img-gen.github.io/categories/type-hint/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Uv</title>
+      <link>https://py-img-gen.github.io/categories/uv/</link>
+      <pubDate>Sat, 04 Jan 2025 00:00:00 +0900</pubDate>
+      <guid>https://py-img-gen.github.io/categories/uv/</guid>
       <description></description>
     </item>
     <item>
@@ -20,13 +55,6 @@
       <link>https://py-img-gen.github.io/categories/ruff/</link>
       <pubDate>Fri, 03 Jan 2025 00:00:00 +0900</pubDate>
       <guid>https://py-img-gen.github.io/categories/ruff/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Rust</title>
-      <link>https://py-img-gen.github.io/categories/rust/</link>
-      <pubDate>Fri, 03 Jan 2025 00:00:00 +0900</pubDate>
-      <guid>https://py-img-gen.github.io/categories/rust/</guid>
       <description></description>
     </item>
     <item>
