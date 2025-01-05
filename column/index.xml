@@ -6,8 +6,15 @@
     <description>Recent content in Column on Influencer</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Jan 2025 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jan 2025 00:00:00 +0900</lastBuildDate>
     <atom:link href="https://py-img-gen.github.io/column/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>💡 Type Hint in Python</title>
+      <link>https://py-img-gen.github.io/column/typehint-in-python/</link>
+      <pubDate>Sun, 05 Jan 2025 00:00:00 +0900</pubDate>
+      <guid>https://py-img-gen.github.io/column/typehint-in-python/</guid>
+      <description>&lt;h2 id=&#34;すべてを救う-python-の型ヒントについて&#34;&gt;💡すべてを救う Python の型ヒントについて&lt;/h2&gt;</description>
+    </item>
     <item>
       <title>🔎 dataclass in Python</title>
       <link>https://py-img-gen.github.io/column/python-dataclass/</link>
