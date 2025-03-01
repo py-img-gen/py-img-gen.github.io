@@ -2,19 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://py-img-gen.github.io/column/typehint-in-python/</loc>
-    <lastmod>2025-01-05T00:00:00+09:00</lastmod>
-  </url><url>
     <loc>https://py-img-gen.github.io/categories/</loc>
-    <lastmod>2025-01-05T00:00:00+09:00</lastmod>
-  </url><url>
-    <loc>https://py-img-gen.github.io/</loc>
     <lastmod>2025-01-05T00:00:00+09:00</lastmod>
   </url><url>
     <loc>https://py-img-gen.github.io/tags/python/</loc>
     <lastmod>2025-01-05T00:00:00+09:00</lastmod>
   </url><url>
     <loc>https://py-img-gen.github.io/categories/python/</loc>
+    <lastmod>2025-01-05T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://py-img-gen.github.io/</loc>
     <lastmod>2025-01-05T00:00:00+09:00</lastmod>
   </url><url>
     <loc>https://py-img-gen.github.io/tags/</loc>
@@ -26,8 +23,8 @@
     <loc>https://py-img-gen.github.io/categories/type-hint/</loc>
     <lastmod>2025-01-05T00:00:00+09:00</lastmod>
   </url><url>
-    <loc>https://py-img-gen.github.io/column/python-dataclass/</loc>
-    <lastmod>2025-01-04T00:00:00+09:00</lastmod>
+    <loc>https://py-img-gen.github.io/column/typehint-in-python/</loc>
+    <lastmod>2025-01-05T00:00:00+09:00</lastmod>
   </url><url>
     <loc>https://py-img-gen.github.io/tags/dataclass/</loc>
     <lastmod>2025-01-04T00:00:00+09:00</lastmod>
@@ -53,16 +50,19 @@
     <loc>https://py-img-gen.github.io/categories/uv/</loc>
     <lastmod>2025-01-04T00:00:00+09:00</lastmod>
   </url><url>
-    <loc>https://py-img-gen.github.io/column/reproducible-experiments/</loc>
+    <loc>https://py-img-gen.github.io/column/python-dataclass/</loc>
     <lastmod>2025-01-04T00:00:00+09:00</lastmod>
   </url><url>
-    <loc>https://py-img-gen.github.io/column/beautiful-python-code/</loc>
-    <lastmod>2025-01-03T00:00:00+09:00</lastmod>
+    <loc>https://py-img-gen.github.io/column/reproducible-experiments/</loc>
+    <lastmod>2025-01-04T00:00:00+09:00</lastmod>
   </url><url>
     <loc>https://py-img-gen.github.io/tags/ruff/</loc>
     <lastmod>2025-01-03T00:00:00+09:00</lastmod>
   </url><url>
     <loc>https://py-img-gen.github.io/categories/ruff/</loc>
+    <lastmod>2025-01-03T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://py-img-gen.github.io/column/beautiful-python-code/</loc>
     <lastmod>2025-01-03T00:00:00+09:00</lastmod>
   </url><url>
     <loc>https://py-img-gen.github.io/tags/diffusers/</loc>

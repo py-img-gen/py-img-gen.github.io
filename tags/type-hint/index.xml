@@ -1,26 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Type Hint on Influencer</title>
+    <title>Type Hint on Pythonで学ぶ画像生成</title>
     <link>https://py-img-gen.github.io/tags/type-hint/</link>
-    <description>Recent content in Type Hint on Influencer</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 05 Jan 2025 00:00:00 +0900</lastBuildDate>
-    <atom:link href="https://py-img-gen.github.io/tags/type-hint/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent content in Type Hint on Pythonで学ぶ画像生成</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Sun, 05 Jan 2025 00:00:00 +0900</lastBuildDate><atom:link href="https://py-img-gen.github.io/tags/type-hint/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>💡 Type Hint in Python</title>
       <link>https://py-img-gen.github.io/column/typehint-in-python/</link>
       <pubDate>Sun, 05 Jan 2025 00:00:00 +0900</pubDate>
+      
       <guid>https://py-img-gen.github.io/column/typehint-in-python/</guid>
-      <description>&lt;h2 id=&#34;すべてを救う-python-の型ヒントについて&#34;&gt;💡すべてを救う Python の型ヒントについて&lt;/h2&gt;</description>
+      <description>💡すべてを救う Python の型ヒントについて </description>
     </item>
+    
     <item>
       <title>🔎 dataclass in Python</title>
       <link>https://py-img-gen.github.io/column/python-dataclass/</link>
       <pubDate>Sat, 04 Jan 2025 00:00:00 +0900</pubDate>
+      
       <guid>https://py-img-gen.github.io/column/python-dataclass/</guid>
-      <description>&lt;h2 id=&#34;-dataclass-で万物に型をつけよう&#34;&gt;🔎 &lt;code&gt;dataclass&lt;/code&gt; で万物に型をつけよう&lt;/h2&gt;</description>
+      <description>🔎 dataclass で万物に型をつけよう </description>
     </item>
+    
   </channel>
 </rss>

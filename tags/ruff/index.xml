@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ruff on Influencer</title>
+    <title>ruff on Pythonで学ぶ画像生成</title>
     <link>https://py-img-gen.github.io/tags/ruff/</link>
-    <description>Recent content in Ruff on Influencer</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 03 Jan 2025 00:00:00 +0900</lastBuildDate>
-    <atom:link href="https://py-img-gen.github.io/tags/ruff/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent content in ruff on Pythonで学ぶ画像生成</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Fri, 03 Jan 2025 00:00:00 +0900</lastBuildDate><atom:link href="https://py-img-gen.github.io/tags/ruff/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>✨️ Keeping Your Python Code Beautiful</title>
       <link>https://py-img-gen.github.io/column/beautiful-python-code/</link>
       <pubDate>Fri, 03 Jan 2025 00:00:00 +0900</pubDate>
+      
       <guid>https://py-img-gen.github.io/column/beautiful-python-code/</guid>
-      <description>&lt;h2 id=&#34;-python-のコードを美しく保つには&#34;&gt;✨️ Python のコードを美しく保つには&lt;/h2&gt;</description>
+      <description>✨️ Python のコードを美しく保つには </description>
     </item>
+    
   </channel>
 </rss>

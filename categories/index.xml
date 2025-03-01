@@ -1,117 +1,146 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Influencer</title>
+    <title>Categories on Pythonで学ぶ画像生成</title>
     <link>https://py-img-gen.github.io/categories/</link>
-    <description>Recent content in Categories on Influencer</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 05 Jan 2025 00:00:00 +0900</lastBuildDate>
-    <atom:link href="https://py-img-gen.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent content in Categories on Pythonで学ぶ画像生成</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Sun, 05 Jan 2025 00:00:00 +0900</lastBuildDate><atom:link href="https://py-img-gen.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Python</title>
       <link>https://py-img-gen.github.io/categories/python/</link>
       <pubDate>Sun, 05 Jan 2025 00:00:00 +0900</pubDate>
+      
       <guid>https://py-img-gen.github.io/categories/python/</guid>
       <description></description>
     </item>
+    
     <item>
       <title>Type Hint</title>
       <link>https://py-img-gen.github.io/categories/type-hint/</link>
       <pubDate>Sun, 05 Jan 2025 00:00:00 +0900</pubDate>
+      
       <guid>https://py-img-gen.github.io/categories/type-hint/</guid>
       <description></description>
     </item>
+    
     <item>
-      <title>Dataclass</title>
+      <title>dataclass</title>
       <link>https://py-img-gen.github.io/categories/dataclass/</link>
       <pubDate>Sat, 04 Jan 2025 00:00:00 +0900</pubDate>
+      
       <guid>https://py-img-gen.github.io/categories/dataclass/</guid>
       <description></description>
     </item>
+    
     <item>
-      <title>Docker</title>
+      <title>docker</title>
       <link>https://py-img-gen.github.io/categories/docker/</link>
       <pubDate>Sat, 04 Jan 2025 00:00:00 +0900</pubDate>
+      
       <guid>https://py-img-gen.github.io/categories/docker/</guid>
       <description></description>
     </item>
+    
     <item>
-      <title>Rust</title>
+      <title>rust</title>
       <link>https://py-img-gen.github.io/categories/rust/</link>
       <pubDate>Sat, 04 Jan 2025 00:00:00 +0900</pubDate>
+      
       <guid>https://py-img-gen.github.io/categories/rust/</guid>
       <description></description>
     </item>
+    
     <item>
-      <title>Uv</title>
+      <title>uv</title>
       <link>https://py-img-gen.github.io/categories/uv/</link>
       <pubDate>Sat, 04 Jan 2025 00:00:00 +0900</pubDate>
+      
       <guid>https://py-img-gen.github.io/categories/uv/</guid>
       <description></description>
     </item>
+    
     <item>
-      <title>Ruff</title>
+      <title>ruff</title>
       <link>https://py-img-gen.github.io/categories/ruff/</link>
       <pubDate>Fri, 03 Jan 2025 00:00:00 +0900</pubDate>
+      
       <guid>https://py-img-gen.github.io/categories/ruff/</guid>
       <description></description>
     </item>
+    
     <item>
-      <title>Diffusers</title>
+      <title>diffusers</title>
       <link>https://py-img-gen.github.io/categories/diffusers/</link>
       <pubDate>Thu, 02 Jan 2025 00:00:00 +0900</pubDate>
+      
       <guid>https://py-img-gen.github.io/categories/diffusers/</guid>
       <description></description>
     </item>
+    
     <item>
       <title>Hugging Face</title>
       <link>https://py-img-gen.github.io/categories/hugging-face/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0900</pubDate>
+      
       <guid>https://py-img-gen.github.io/categories/hugging-face/</guid>
       <description></description>
     </item>
+    
     <item>
-      <title>Huggingface Datasets</title>
+      <title>huggingface datasets</title>
       <link>https://py-img-gen.github.io/categories/huggingface-datasets/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0900</pubDate>
+      
       <guid>https://py-img-gen.github.io/categories/huggingface-datasets/</guid>
       <description></description>
     </item>
+    
     <item>
-      <title>Huggingface Evaluate</title>
+      <title>huggingface evaluate</title>
       <link>https://py-img-gen.github.io/categories/huggingface-evaluate/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0900</pubDate>
+      
       <guid>https://py-img-gen.github.io/categories/huggingface-evaluate/</guid>
       <description></description>
     </item>
+    
     <item>
-      <title>Huggingface Transformers</title>
+      <title>huggingface transformers</title>
       <link>https://py-img-gen.github.io/categories/huggingface-transformers/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0900</pubDate>
+      
       <guid>https://py-img-gen.github.io/categories/huggingface-transformers/</guid>
       <description></description>
     </item>
+    
     <item>
       <title>Creative</title>
       <link>https://py-img-gen.github.io/categories/creative/</link>
       <pubDate>Sat, 23 Nov 2019 15:28:43 +0600</pubDate>
+      
       <guid>https://py-img-gen.github.io/categories/creative/</guid>
       <description></description>
     </item>
+    
     <item>
       <title>Go Language</title>
       <link>https://py-img-gen.github.io/categories/go-language/</link>
       <pubDate>Sat, 23 Nov 2019 15:28:43 +0600</pubDate>
+      
       <guid>https://py-img-gen.github.io/categories/go-language/</guid>
       <description></description>
     </item>
+    
     <item>
       <title>New Book</title>
       <link>https://py-img-gen.github.io/categories/new-book/</link>
       <pubDate>Sat, 23 Nov 2019 15:28:43 +0600</pubDate>
+      
       <guid>https://py-img-gen.github.io/categories/new-book/</guid>
       <description></description>
     </item>
+    
   </channel>
 </rss>
