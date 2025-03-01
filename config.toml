@@ -18,6 +18,8 @@ URL = "plugins/slick/slick.css"
 URL = "plugins/themify-icons/themify-icons.css"
 [[params.plugins.css]]
 URL = "plugins/magnific-popup/magnific-popup.css"
+[[params.plugins.css]]
+URL = "https://cdn.jsdelivr.net/npm/line-seed-jp@0.0.5/line-seed-jp.min.css"
 
 # JS Plugins
 [[params.plugins.js]]
@@ -28,7 +30,8 @@ URL = "plugins/bootstrap/bootstrap.min.js"
 URL = "plugins/slick/slick.min.js"
 [[params.plugins.js]]
 URL = "plugins/magnific-popup/magnific-popup.min.js"
-
+[[params.plugins.js]]
+URL = "https://unpkg.com/budoux/bundle/budoux-ja.min.js"
 
 ############################## navigation ###############################
 [menu]

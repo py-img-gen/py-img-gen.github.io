@@ -1,12 +1,12 @@
 ########################## Banner #############################
 banner:
   enable : true
-  writer : "George Stewart"
-  title : "The Man in the <br>Glass House"
+  writer : "北田俊輔（著）"
+  title : "Pythonで学ぶ画像生成"
   image : "images/about/book.png"
-  content : "We work with our partners to streamline project plans that don’t just deliver on
-            product perfection, but also delivers on time."
-  price : "14.99"
+  content : "近年の技術の発展により、画像生成技術はますます身近になっています。本書は、画像生成について実践的に学べるように、Pythonを使った実装を示しています。"
+  price : "3,850円"
+  breakdown: "本体3,500円+税10%"
 
 ######################## Book Preview ##########################
 preview:
