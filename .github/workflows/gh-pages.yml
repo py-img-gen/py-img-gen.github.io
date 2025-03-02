@@ -40,6 +40,7 @@ jobs:
             --ignore-fragments \
             -e t.co \
             -e twitter.com \
+            -e x.com \
             -e impress.co.jp \
             "
 
