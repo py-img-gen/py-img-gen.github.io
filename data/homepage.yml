@@ -9,11 +9,9 @@ banner:
   price : "3,850円"
   breakdown: "本体3,500円+税10%"
   bookItem:
-    - label: "インプレスブックス"
-      link: "https://book.impress.co.jp/books/1123101104"
+    - label: "Amazon.co.jp"
+      link: "https://www.amazon.co.jp/dp/4295021105/ref=nosim/?tag=impressjapan-22&linkCode=as1"
       
-    # - label: "Amazon.co.jp"
-    #   link: "https://www.amazon.co.jp/dp/4295021105/ref=nosim/?tag=impressjapan-22&linkCode=as1"
     # - label: "楽天ブックス"
     #   link: "https://hb.afl.rakuten.co.jp/hgc/0e4417b1.a489ce30.0e4417b2.93258c0e/?pc=https%3A%2F%2Fbooks.rakuten.co.jp%2Frdt%2Fitem%2F%3Fsid%3D213310%26sno%3DISBN%3A9784295021100"
     # - label: "セブンネット"
