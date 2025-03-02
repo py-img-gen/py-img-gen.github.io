@@ -37,32 +37,32 @@ URL = "https://unpkg.com/budoux/bundle/budoux-ja.min.js"
 [menu]
 
 [[menu.main]]
-name = "About"
+name = "概要"
 URL = "book"
 weight = 1
 
 [[menu.main]]
-name = "Chapter"
+name = "目次"
 URL = "chapter"
 weight = 2
 
-[[menu.main]]
-name = "Reviews"
-URL = "review"
-weight = 3
+# [[menu.main]]
+# name = "Reviews"
+# URL = "review"
+# weight = 3
 
 [[menu.main]]
-name = "Author"
+name = "著者"
 URL = "author"
 weight = 4
 
 [[menu.main]]
-name = "Blog"
+name = "補足"
 URL = "blog"
 weight = 5
 
 [[menu.main]]
-name = "Contact"
+name = "リンク"
 URL = "contact"
 weight = 6
 
@@ -72,12 +72,12 @@ weight = 6
 logo = ""
 home = "Home"
 # Meta data
-description = "This is meta description"
-author = "Themefisher"
+description = '"Pythonで学ぶ画像生成"のランディングページです。'
+author = "北田 俊輔"
 # Google Analytics
 googleAnalyticsID = "" # Your ID
 # copyright
-copyright = "Copyright &copy; 2021 [Gethugothemes](https://gethugothemes.com) All Rights Reserved"
+copyright = "Copyright &copy; 2025 [Shunsuke Kitada](https://shunk031.me/). All Rights Reserved"
 
 # Preloader
 [params.preloader]
@@ -95,7 +95,7 @@ expire_days = 2
 
 ############################# Footer ########################
 [params.footer]
-content = "Each theme featured at the Bootstrap marketplace has been reviewed by Bootstrap's creators.Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+content = "近年の技術の発展により、画像生成技術はますます身近になっています。本書は、画像生成について実践的に学べるように、Pythonを使った実装を示しています。"
 
 
 ############################# post share ###################
@@ -118,3 +118,9 @@ link = "#"
 title = "github"
 icon = "ti-github" # themify icon : https://themify.me/themify-icons
 link = "#"
+
+[server]
+[[server.headers]]
+for = '/**'
+[server.headers.values]
+X-Frame-Options = 'SAMEORIGIN'
