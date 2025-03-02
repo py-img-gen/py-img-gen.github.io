@@ -20,3 +20,5 @@ type: "post"
 ---
 
 ## 💡すべてを救う Python の型ヒントについて
+
+{{< blogcard url="https://note.com/shunk031/n/n02edafb543a6" >}}
