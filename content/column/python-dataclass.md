@@ -20,3 +20,5 @@ type: "post"
 ---
 
 ## 🔎 `dataclass` で万物に型をつけよう
+
+{{< blogcard url="https://note.com/shunk031/n/nc1106f2ef926" >}}

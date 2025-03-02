@@ -20,3 +20,5 @@ type: "post"
 ---
 
 ## ✨️ Python のコードを美しく保つには
+
+{{< blogcard url="https://note.com/shunk031/n/n65c55ca011e3" >}}
