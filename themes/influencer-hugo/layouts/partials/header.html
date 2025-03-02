@@ -37,12 +37,9 @@
 
         {{ if .Site.Params.navButton.enable }}
         {{ "<!-- nav btn -->" | safeHTML }}
-        <button class="snipcart-add-item btn btn-border-tp btn-small ml-0 ml-lg-3 mb-3 mb-lg-0" data-item-id="1"
-          data-item-name="{{ .Site.Data.homepage.banner.title | markdownify }}"
-          data-item-image="{{ .Site.Data.homepage.banner.image | absURL }}"
-          data-item-price="{{ .Site.Data.homepage.banner.price }}" data-item-url="/">
-          購入はこちら
-        </button>
+        <a href="https://book.impress.co.jp/books/1123101104"
+          class="btn btn-border-tp btn-small ml-0 ml-lg-3 mb-3 mb-lg-0">インプレスブックから購入<i
+            class="ti-angle-right ml-3"></i></a>
         {{ end }}
       </div>
     </div>

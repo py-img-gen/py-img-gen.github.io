@@ -10,17 +10,19 @@
             <h2 class="mb-0 text-dark">{{ .Site.Title }}</h2>
             {{ end }}
           </a>
-          <p class="mb-4">{{ .Site.Params.footer.content | markdownify }}</p>
+          <p class="mb-4">
+            <budoux-ja>{{ .Site.Params.footer.content | markdownify }}</budoux-ja>
+          </p>
         </div>
       </div>
 
-      <div class="col-lg-6">
+      <!-- <div class="col-lg-6">
         <div class="subscribe">
           <h4 class="mb-4">Get up to 20% Discount</h4>
           <input type="text" class="form-control mb-4" placeholder="Put your email address">
           <a href="#" class="btn btn-main">Download Now<i class="ti-angle-right ml-3"></i></a>
         </div>
-      </div>
+      </div> -->
     </div>
   </div>
 
@@ -32,11 +34,11 @@
           {{ .Site.Params.copyright | markdownify }}
         </p>
       </div>
-      <div class="col-lg-6">
+      <!-- <div class="col-lg-6">
         <div class="footer-btm-menu text-lg-right">
           <img src="{{`images/about/cards-3.png` | relURL }}" alt="" class="img-fluid">
         </div>
-      </div>
+      </div> -->
     </div>
   </div>
 </footer>
