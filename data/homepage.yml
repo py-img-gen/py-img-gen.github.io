@@ -1,12 +1,27 @@
 ########################## Banner #############################
 banner:
   enable : true
-  writer : "北田俊輔（著）"
+  writer : "北田 俊輔（著）"
   title : "Pythonで学ぶ画像生成"
+  subtitle: "[機械学習実践シリーズ](https://bookwalker.jp/series/301073/?srsltid=AfmBOor5eVTuqVphm57pVykDTEWjBjNh4SoN5EC-JQQNe6HQ7Hb6uD9u)"
   image : "images/about/book.png"
   content : "近年の技術の発展により、画像生成技術はますます身近になっています。本書は、画像生成について実践的に学べるように、Pythonを使った実装を示しています。"
   price : "3,850円"
   breakdown: "本体3,500円+税10%"
+  bookItem:
+    - label: "インプレスブックス"
+      link: "https://book.impress.co.jp/books/1123101104"
+      
+    # - label: "Amazon.co.jp"
+    #   link: "https://www.amazon.co.jp/dp/4295021105/ref=nosim/?tag=impressjapan-22&linkCode=as1"
+    # - label: "楽天ブックス"
+    #   link: "https://hb.afl.rakuten.co.jp/hgc/0e4417b1.a489ce30.0e4417b2.93258c0e/?pc=https%3A%2F%2Fbooks.rakuten.co.jp%2Frdt%2Fitem%2F%3Fsid%3D213310%26sno%3DISBN%3A9784295021100"
+    # - label: "セブンネット"
+    #   link: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3192673&pid=884188533&vc_url=https%3A%2F%2F7net.omni7.jp%2Fdetail_isbn%2F9784295021100"
+    # - label: "ヨドバシ.com"
+    #   link: "https://www.yodobashi.com/ec/category/index.html?word=9784295021100&extst=impress"
+    # - label: "HonyaClub.com"
+    #   link: "https://www.honyaclub.com/shop/affiliate/itemlist.aspx?isbn=9784295021100&etcaff=AFI-LS"
 
 ######################## Book Preview ##########################
 preview:
@@ -17,31 +32,26 @@ preview:
     - image : "images/about/book_page2.png"
     - image : "images/about/book_page.png"
 
-  title : "Look Inside the book"
-  content : "
-  This lovely, well-written book is concerned with creating typography and is essential for professionals who regularly work for clients.
-
-
-  Dolor quam consectetur corrupti, dignissimos sequi. Nihil totam alias, ipsa facere quibusdam, modi accusamus quod quae quaerat.
-  "
+  title : "画像生成の基礎から実践までを一冊に凝縮"
+  content : "まず「画像生成とは何か」という基本を解説し、次に画像生成を支える深層学習の基礎を押さえます。その上で、現在の最先端技術である拡散モデルと、その効率化・応用例としてStable Diffusionなどを詳しく取り上げています。最後には、拡散モデルがもたらす革新的な可能性と同時に、技術の制限や倫理的な課題にも言及し、将来のさらなる発展・応用に向けた展望を示しています。"
 
   inside:
     # book inside item loop
-    - insideItem : "7 Chapter"
-    - insideItem : "Explained Details"
-    - insideItem : "Clear Understanding"
-    - insideItem : "Best practices"
+    - insideItem : "6章 + 各章末に実装に役立つコラム付き"
+    - insideItem : "Python・PyTorchで学ぶ画像生成の実装"
+    - insideItem : "Diffusersによる最先端技術の実践"
+    - insideItem : "画像生成を中心とした様々なタスクの解説を多数収録"
 
   # button
   button:
     enable : true
-    label : "Purchase on Amazon"
-    link : "#"
+    label : "Amazonでの購入はこちら"
+    link : "https://amzn.asia/d/2C7Jm6E"
 
 
 ########################## Service ##############################
 service:
-  enable : true
+  enable : false
   serviceItem:
     # service item loop
     - title : "Experience"
@@ -61,7 +71,7 @@ service:
 
 ######################### Quote #############################
 quote:
-  enable : true
+  enable : false
   quote: "It's simply the best guide to making money online ever released which only a fool would ignore."
   quoteBy: "John Smith"
 
@@ -69,37 +79,37 @@ quote:
 ######################### Chapters ##########################
 chapters:
   enable : true
-  title : "Full Chapter Overview"
-  subtitle : "Libero atque veniam molestiae ipsa aliquid quam facilis dolore."
+  title : "目次"
+  subtitle : "画像生成の概要から拡散モデルを中心とした最新技術、そして応用・今後の展望までを体系的に紹介します。"
   chapter:
     # chapter preview loop
-    - title : "Chapter 1"
-      content : "Tips on scouting the city and making the most out of your three-month tourist visa."
+    - title : "第1章: 画像生成とは？"
+      content : "コンピュータが画像を生成する仕組みの概要とその応用について説明します。近年の画像生成技術は大きく発展しました。その結果、人間の創造的な営みの代表である画像表現がコンピュータでも実現できるようになりました。ここでは特に画像生成AIとして注目を集める技術を紹介します。具体的には「指定したテキストから画像を生成するAI」の概要を説明します。"
 
     # chapter preview loop
-    - title : "Chapter 2"
-      content : "Tips on scouting the city and making the most out of your three-month tourist visa."
+    - title : "第2章: 深層学習の基礎知識"
+      content : "現在の画像生成技術の根幹を担う深層学習を導入します。深層学習とは、ニューラルネットワークを多層にした機械学習手法を指します。行列演算を用いた「層」を多数に重ねてモデルを構成するため、「深層学習」と呼ばれています。現在画像生成で用いられているStable Diffusionをはじめとした拡散モデルもほぼすべて深層学習に基づいています。"
+     
+    # chapter preview loop
+    - title : "第3章: 拡散モデルの導入"
+      content : "画像生成において最先端の技術である拡散モデルを導入します。まず拡散モデルが含まれる生成モデルの概要について紹介します。次に、拡散モデルの基本的な概念であるDDPMとその発展について説明します。さらに拡散モデルと密接に関係するスコアベース生成モデルについても説明します。最後に拡散モデルを最先端の生成手法へと押し上げた生成技術について取り上げます。"
       
     # chapter preview loop
-    - title : "Chapter 3"
-      content : "Calculating your cost of living, with an overview of NYC neighborhoods and average rent prices. Includes tips on when to move to NYC."
+    - title : "第4章: 潜在拡散モデルとStable Diffusion"
+      content : "潜在拡散モデル（LDM）とその発展であるStable Diffusionについて解説します。LDMはDDPMをより効率化したモデルであり、これをもとにStable Diffusionが構築されています。Stable Diffusionはこれまで研究されてきた手法が効果的に組み合わされて成り立っているため、以降ではそれら構成要素について詳しく説明します。さらに、開発が進んだStable Diffusionの各バージョンの違いについても解説します。"
+   
+    # chapter preview loop
+    - title : "第5章: 拡散モデルによる画像生成技術の応用"
+      content : "拡散モデルを様々な画像生成タスクへ応用した事例について紹介します。Stable Diffusion公開を皮切りに、テキストによる指示をベースにしながら、個人のニーズに合わせたり、より細かな制御を行った画像生成、高度な画像編集が可能になりました。またStable Diffusion自体を効率的に学習・推論させるための技術や、既存のStable Diffusionを拡張する技術についても紹介します。"
       
     # chapter preview loop
-    - title : "Chapter 4"
-      content : "Calculating your cost of living, with an overview of NYC neighborhoods and average rent prices. Includes tips on when to move to NYC."
-      
-    # chapter preview loop
-    - title : "Chapter 5"
-      content : "Tips on scouting the city and making the most out of your three-month tourist visa."
-      
-    # chapter preview loop
-    - title : "Chapter 6"
-      content : "Tips on scouting the city and making the most out of your three-month tourist visa."
+    - title : "第6章: 画像生成の今後"
+      content : "拡散モデルによる画像生成の今後の展望について議論します。これまで、拡散モデルの基礎理論、実装、応用例を紹介し、人間と同等以上の性能を持つその革新的な可能性を示してきました。一方で、第1章3節でも述べたような制限や倫理的な問題も存在します。拡散モデルには利点欠点それぞれ存在しますが、可能性は依然として高く、画像生成にとどまらないさらなる応用と進化が期待されます。"
 
 
 ########################## Revews ###########################
 reviews:
-  enable : true
+  enable : false
   title : "What people are saying"
   subtitle : "Amazing reviews illo tenetur laboriosam excepturi velit in, temporibus ab rem dicta sint obcaecati!"
   review:
@@ -134,7 +144,7 @@ reviews:
 
 #################################### device ################################
 devices:
-  enable : true
+  enable : false
   title : "Read it on your favorite device!"
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestiae quod, nobis repudiandae! In
           commodi accusamus molestiae, sunt, tempora fugiat doloribus sint quisquam illo numquam corporis
@@ -161,24 +171,36 @@ devices:
 ######################################## author #############################
 author:
   enable : true
-  image : "images/about/home-1.jpg"
-  name : "Yasin Arafat"
-  designation : "A technical Writer"
-  content : "
-  Do you want to be even more successful? Learn to love learn and growth. The more efort you put into improving your skills, the bigger the payoff you will get.
+  image : "images/about/py-img-gen.png"
+  name : "北田 俊輔"
+  designation : "リサーチサイエンティスト / 博士（工学）"
+  content : "きただしゅんすけ。LINEヤフー株式会社リサーチサイエンティスト・法政大学大学院特任研究員。2023年3月に法政大学大学院理工学研究科を修了。博士（工学）。日本学術振興会特別研究員 (DC2) を経て現職。コンピュータビジョンや自然言語処理を始め、その融合領域である Vision & Language 分野にて研究に従事。現在はユーザにとって魅力的な画像やデザインの作成を支援するような最先端技術の研究開発に携わる。"
 
-
-  It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout."
-
-  # signature
-  signature : "images/about/2.png"
+  # # signature
+  # signature : "images/about/2.png"
 
 
 ################################ Awards #####################################
 awards:
-  enable : true
+  enable : false
   title : "We are award winner best selling book among the top rated 10 books!"
   award:
+    # award item loop
+    - title : "International award"
+      image : "images/about/award-1.png"
+      
+    # award item loop
+    - title : "Meritorious award"
+      image : "images/about/award-2.png"
+      
+    # award item loop
+    - title : "Best book award"
+      image : "images/about/award-3.png"
+      
+    # award item loop
+    - title : "Excellence award"
+      image : "images/about/award-4.png"
+
     # award item loop
     - title : "International award"
       image : "images/about/award-1.png"
@@ -198,7 +220,7 @@ awards:
 
 ############################# Other books ###############################
 otherBooks:
-  enable : true
+  enable : false
   title : "Others books by the author"
   subtitle : "Laboriosam eos aperiam excepturi accusamus velit repudiandae sit rem incidunt, similique
             facere quas blanditiis."
@@ -219,33 +241,49 @@ otherBooks:
     - image : "images/about/b-4.jpg"
       link : "#"
 
+    # books loop
+    - image : "images/about/b-1.jpg"
+      link : "#"
+      
+    # books loop
+    - image : "images/about/b-2.jpg"
+      link : "#"
+      
+    # books loop
+    - image : "images/about/b-3.jpg"
+      link : "#"
+      
+    # books loop
+    - image : "images/about/b-4.jpg"
+      link : "#"
+
 ################################ Blog ###################################
 blog:
   enable : true
-  title : "Our insights and articles"
-  subtitle : "Laboriosam eos aperiam excepturi accusamus velit repudiandae sit rem incidunt, similique facere quas blanditiis."
+  title : "コラム補足記事"
+  subtitle : "本文では紹介しきれなかった内容を補足します。"
   # blog post comes from 'content/blog'
 
 ################################# Contact ##############################
 contact:
   enable : true
-  title : "Contact Us"
-  subtitle : "Whether you have questions or you would just like to say hello, contact us.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Provident, atque!"
+  title : "リンク"
+  subtitle: "本書に関連する GitHub / Hugging Face / X (Twitter) のアカウントです"
   contactItem:
     # contact Item loop
-    - title : "Contact Quickly"
-      icon : "ti-headphone-alt" # themify icon pack : https://themify.me/themify-icons
+    - title: "GitHub"
+      icon: "ti-github" # themify icon pack : https://themify.me/themify-icons
       list:
-        - listItem : "+23-68017684"
-        
+        - listItem: "[python-image-generation](https://github.com/py-img-gen/python-image-generation/issues)"
+
     # contact Item loop
-    - title : "Email"
-      icon : "ti-email" # themify icon pack : https://themify.me/themify-icons
+    - title: "Hugging Face"
+      icon: "ti-face-smile" # themify icon pack : https://themify.me/themify-icons
       list:
-        - listItem : "startor@support.com"
-        
+        - listItem: "[huggingface.co/py-img-gen](https://huggingface.co/py-img-gen)"
+
     # contact Item loop
-    - title : "Location"
-      icon : "ti-location-pin" # themify icon pack : https://themify.me/themify-icons
+    - title: "X (Twitter)"
+      icon: "ti-twitter" # themify icon pack : https://themify.me/themify-icons
       list:
-        - listItem : "397 Lake forest drive street USA"
+        - listItem: "[py_img_gen](https://x.com/py_img_gen)"
