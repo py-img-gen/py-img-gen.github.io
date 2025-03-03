@@ -4,7 +4,7 @@ banner:
   writer : "北田 俊輔（著）"
   title : "Pythonで学ぶ画像生成"
   subtitle: "[機械学習実践シリーズ](https://bookwalker.jp/series/301073/?srsltid=AfmBOor5eVTuqVphm57pVykDTEWjBjNh4SoN5EC-JQQNe6HQ7Hb6uD9u)"
-  image : "images/about/book.png"
+  image : "images/about/perspective.png"
   content : "近年の技術の発展により、画像生成技術はますます身近になっています。本書は、画像生成について実践的に学べるように、Pythonを使った実装を示しています。"
   price : "3,850円"
   breakdown: "本体3,500円+税10%"
