@@ -7,10 +7,10 @@ draft: false
 author : "北田 俊輔"
 
 # post thumb
-image: "images/blog/blog-1.jpg"
+image: "https://assets.st-note.com/production/uploads/images/177372381/rectangle_large_type_2_77ac5bc8e07e0b825e715c96b64bc683.png"
 
 # meta description
-description: "this is meta description"
+description: "💡すべてを救う Python の型ヒントについて"
 
 # taxonomies
 categories: ["Python", "Type Hint"]
@@ -19,4 +19,6 @@ tags: ["Python", "Type Hint"]
 type: "post"
 ---
 
-## 💡すべてを救う Python の型ヒントについて
+<!-- ## 💡すべてを救う Python の型ヒントについて -->
+
+{{< blogcard url="https://note.com/shunk031/n/n02edafb543a6" >}}

@@ -10,7 +10,7 @@ author : "北田 俊輔"
 image: "images/blog/blog-1.jpg"
 
 # meta description
-description: "this is meta description"
+description: "🧨 diffusers のコードを拡張する"
 
 # taxonomies
 categories: ["Python", "diffusers"]
