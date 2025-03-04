@@ -10,7 +10,7 @@ author : "北田 俊輔"
 image: "images/blog/blog-1.jpg"
 
 # meta description
-description: "this is meta description"
+description: "🤗 Hugging Face のエコシステムを使い倒す"
 
 # taxonomies
 categories: ["Python", "Hugging Face", "huggingface transformers", "huggingface evaluate", "huggingface datasets"]

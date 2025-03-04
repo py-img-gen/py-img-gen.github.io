@@ -7,10 +7,10 @@ draft: false
 author : "北田 俊輔"
 
 # post thumb
-image: "images/blog/blog-1.jpg"
+image: "https://assets.st-note.com/production/uploads/images/177372544/rectangle_large_type_2_b2992d27110edccf3062187b1b807e26.png"
 
 # meta description
-description: "this is meta description"
+description: "🔎 `dataclass` で万物に型をつけよう"
 
 # taxonomies
 categories: ["Python", "Type Hint", "dataclass"]
@@ -19,6 +19,6 @@ tags: ["Python", "Type Hint", "dataclass"]
 type: "post"
 ---
 
-## 🔎 `dataclass` で万物に型をつけよう
+<!-- ## 🔎 `dataclass` で万物に型をつけよう -->
 
 {{< blogcard url="https://note.com/shunk031/n/nc1106f2ef926" >}}
