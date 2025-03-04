@@ -367,14 +367,14 @@
     </div>
     {{ end }}
     <div class="row">
-      {{ range first 3 (where .Site.RegularPages "Type" "post")}}
+      {{ range first 6 (where .Site.RegularPages "Type" "post")}}
       <div class="col-lg-4 col-md-6 col-sm-6">
         {{ .Render "post"}}
       </div>
       {{ end }}
     </div>
     <div class="text-center mt-5">
-      <a href="/blog" class="btn btn-main">All Post</a>
+      <a href="/column" class="btn btn-main">All Columns</a>
     </div>
   </div>
 </section>
