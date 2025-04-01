@@ -7,7 +7,7 @@ draft: false
 author : "北田 俊輔"
 
 # post thumb
-image: "images/blog/blog-1.jpg"
+image: "https://assets.st-note.com/production/uploads/images/182010031/rectangle_large_type_2_e7310a24e2072be007550630ac13f4e9.png"
 
 # meta description
 description: "🧨 diffusers のコードを拡張する"
@@ -19,4 +19,6 @@ tags: ["Python", "diffusers"]
 type: "post"
 ---
 
-## 🧨 `diffusers` のコードを拡張する
+<!-- ## 🧨 `diffusers` のコードを拡張する -->
+
+{{< blogcard url="https://note.com/shunk031/n/nb558ff80165f" >}}
