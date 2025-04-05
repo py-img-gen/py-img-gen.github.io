@@ -13,7 +13,8 @@
       <pubDate>Sun, 05 Jan 2025 00:00:00 +0900</pubDate>
       
       <guid>https://py-img-gen.github.io/column/typehint-in-python/</guid>
-      <description>  </description>
+      <description>💡すべてを救う Python の型ヒントについて 詳細は以下をご覧ください。
+  </description>
     </item>
     
     <item>
@@ -22,7 +23,8 @@
       <pubDate>Sat, 04 Jan 2025 00:00:00 +0900</pubDate>
       
       <guid>https://py-img-gen.github.io/column/python-dataclass/</guid>
-      <description>  </description>
+      <description>🔎 dataclass で万物に型をつけよう 詳細は以下をご覧ください。
+  </description>
     </item>
     
     <item>
@@ -31,7 +33,8 @@
       <pubDate>Sat, 04 Jan 2025 00:00:00 +0900</pubDate>
       
       <guid>https://py-img-gen.github.io/column/reproducible-experiments/</guid>
-      <description>  </description>
+      <description>🧪 深層学習を用いた実験における再現可能な環境構築 詳細は以下をご覧ください。
+  </description>
     </item>
     
     <item>
@@ -40,7 +43,8 @@
       <pubDate>Fri, 03 Jan 2025 00:00:00 +0900</pubDate>
       
       <guid>https://py-img-gen.github.io/column/beautiful-python-code/</guid>
-      <description>  </description>
+      <description>✨️ Python のコードを美しく保つには 詳細は以下をご覧ください。
+  </description>
     </item>
     
     <item>
@@ -49,7 +53,8 @@
       <pubDate>Thu, 02 Jan 2025 00:00:00 +0900</pubDate>
       
       <guid>https://py-img-gen.github.io/column/extending-diffusers-code/</guid>
-      <description>  </description>
+      <description>🧨 diffusers のコードを拡張する 詳細は以下をご覧ください。
+  </description>
     </item>
     
     <item>
@@ -58,7 +63,8 @@
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0900</pubDate>
       
       <guid>https://py-img-gen.github.io/column/mastering-huggingface-ecosystem/</guid>
-      <description>🤗 Hugging Face のエコシステムを使い倒す </description>
+      <description>🤗 Hugging Face のエコシステムを使い倒す 詳細は以下をご覧ください。
+  </description>
     </item>
     
   </channel>
