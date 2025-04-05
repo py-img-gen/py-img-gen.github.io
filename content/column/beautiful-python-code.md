@@ -19,6 +19,8 @@ tags: ["Python", "ruff", "rust"]
 type: "post"
 ---
 
-<!-- ## ✨️ Python のコードを美しく保つには -->
+## ✨️ Python のコードを美しく保つには
+
+詳細は以下をご覧ください。
 
 {{< blogcard url="https://note.com/shunk031/n/n65c55ca011e3" >}}

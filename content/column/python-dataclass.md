@@ -19,6 +19,8 @@ tags: ["Python", "Type Hint", "dataclass"]
 type: "post"
 ---
 
-<!-- ## 🔎 `dataclass` で万物に型をつけよう -->
+## 🔎 `dataclass` で万物に型をつけよう
+
+詳細は以下をご覧ください。
 
 {{< blogcard url="https://note.com/shunk031/n/nc1106f2ef926" >}}

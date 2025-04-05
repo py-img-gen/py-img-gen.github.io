@@ -21,4 +21,6 @@ type: "post"
 
 ## 🤗 Hugging Face のエコシステムを使い倒す
 
+詳細は以下をご覧ください。
+
 {{< blogcard url="https://note.com/shunk031/n/na43041c88ad7" >}}
