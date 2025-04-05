@@ -7,7 +7,7 @@ draft: false
 author : "北田 俊輔"
 
 # post thumb
-image: "images/blog/blog-1.jpg"
+image: "https://assets.st-note.com/production/uploads/images/182597849/rectangle_large_type_2_b31ef1440929f1e8582fc3cc55700c6a.png"
 
 # meta description
 description: "🤗 Hugging Face のエコシステムを使い倒す"
@@ -21,3 +21,4 @@ type: "post"
 
 ## 🤗 Hugging Face のエコシステムを使い倒す
 
+{{< blogcard url="https://note.com/shunk031/n/na43041c88ad7" >}}
