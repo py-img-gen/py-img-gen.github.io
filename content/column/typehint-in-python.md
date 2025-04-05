@@ -19,6 +19,8 @@ tags: ["Python", "Type Hint"]
 type: "post"
 ---
 
-<!-- ## 💡すべてを救う Python の型ヒントについて -->
+## 💡すべてを救う Python の型ヒントについて
+
+詳細は以下をご覧ください。
 
 {{< blogcard url="https://note.com/shunk031/n/n02edafb543a6" >}}

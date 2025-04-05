@@ -19,6 +19,8 @@ tags: ["Python", "diffusers"]
 type: "post"
 ---
 
-<!-- ## 🧨 `diffusers` のコードを拡張する -->
+## 🧨 `diffusers` のコードを拡張する
+
+詳細は以下をご覧ください。
 
 {{< blogcard url="https://note.com/shunk031/n/nb558ff80165f" >}}
